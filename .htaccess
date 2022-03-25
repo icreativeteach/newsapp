@@ -1,0 +1,7 @@
+
+
+<IfModule mod_php8.c>
+    php_value max_execution_time 1500
+    php_value upload_max_filesize 15M
+</IfModule>
+
